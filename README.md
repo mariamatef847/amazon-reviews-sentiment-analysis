@@ -27,21 +27,22 @@ It involves:
 *1️ Sentiment Distribution (Bar Chart)*  
 Shows the number of Positive vs Negative reviews.
 
-![Bar Chart](images/sentiment_distribution_bar.png)
+![Bar Chart](Bar%20Chart.png)
 
 ---
 
 *2️ Sentiment Ratio (Pie Chart)*  
 Represents the percentage of each sentiment category.
 
-![Pie Chart](images/sentiment_distribution_pie.png)
+![Pie Chart](Piechart.png)
 
 ---
 
 *3️ WordCloud - Most Frequent Words*  
 Highlights the most common words used in the reviews.
 
-![WordCloud](images/wordcloud_reviews.png)
+![WordCloud](Worldcloud.png)
+
 ## Tech Stack
 - Python  
 - Pandas  
