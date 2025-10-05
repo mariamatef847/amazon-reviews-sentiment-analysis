@@ -55,6 +55,12 @@ Highlights the most common words used in the reviews.
 - Most reviews were *positive*, indicating good product satisfaction.
 - TextBlob provides a quick and interpretable sentiment polarity for each review.
 
+##  Author
+*Mariam Atef*  
+[mariaaam22m@gmail.com]  
+[https://www.linkedin.com/in/mariam-atef22]
+
+
 
 
 
